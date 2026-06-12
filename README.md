@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
