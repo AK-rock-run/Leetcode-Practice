@@ -9,18 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
