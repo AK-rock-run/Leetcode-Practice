@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
