@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
