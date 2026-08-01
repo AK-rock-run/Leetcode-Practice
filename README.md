@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AK-rock-run/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
